@@ -1,0 +1,8 @@
+1. For the months, and day relationship graphs, use facets in matplotlib or seaborn for graphs
+In the legends, state the months, or hours, or day names
+use a different seaborn color palette
+for hours, use line graphs
+seville pressure: the plot is disorganized. revisit it. so many legends. what to do?????
+correlation: correlate only to load shortfall. all the predictors to only the response because they are too many.
+https://seaborn.pydata.org/tutorial/color_palettes.html 
+
